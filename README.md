@@ -1,7 +1,7 @@
 ﻿# **Lander_Page-Using-Tailwind-Css**
 
 ### Home page
-![image](Images/Screenshot 2024-04-13 190506.png)
+![image]([Images/Screenshot 2024-04-13 190506.png](https://github.com/Ashish-Ujjwal/Lander_Page-Using-Tailwind-Css/blob/main/Images/Screenshot%202024-04-13%20190506.png))
 
 ### About page
 ![image](Img/Screenshot 2024-04-13 190531.png)
