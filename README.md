@@ -4,7 +4,7 @@
 ![image]([Images/Screenshot 2024-04-13 190506.png](https://github.com/Ashish-Ujjwal/Lander_Page-Using-Tailwind-Css/blob/main/Images/Screenshot%202024-04-13%20190506.png))
 
 ### About page
-![image](Images/Imgae1.png)
+![image](Images/Image1.png)
 
 ### Contact Us
 ![image](Img/Contact.png)
